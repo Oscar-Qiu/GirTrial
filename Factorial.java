@@ -38,5 +38,8 @@ public class Factorial {
 //        System.out.println(tail(0));
           System.out.println(tailRecursive(13));
         System.out.println(iterative(13));
+        System.out.println(tailRecursive(9));
+        System.out.println(iterative(8));
+        
     }
 }
